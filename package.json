@@ -8,6 +8,12 @@
     "start": "parcel index.html",
     "watch-test":"jest --watchAll"
   },
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/Gagandeep-Sethi/Sky-Foods.git"
+
+  },
+
   "author": "sky",
   "license": "ISC",
   "devDependencies": {
